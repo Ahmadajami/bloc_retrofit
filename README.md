@@ -1,16 +1,22 @@
-# quotes_shop
+## Flutter Project with BLoC, Retrofit/Dio, and Secure Storage
 
-A new Flutter project With flutter_bloc and retrofit and Get_it.
+### Project Overview
 
-## Getting Started
+This is a Flutter project under development that showcases my proficiency in various technologies:
 
-This project is a starting point for a Flutter application.
+##### Flutter BLoC: State management using the predictable BLoC pattern.
 
-A few resources to get you started if this is your first Flutter project:
+Retrofit/Dio: Flexible HTTP clients for API interactions.
+Flutter Secure Storage: Securely store sensitive data on the device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Done( for now ):
+User authentication and authorization.
+API calls to retrieve/manipulate data.
+Secure storage of user credentials.
+TODO:
+Caching mechanisms for offline functionality.
+Adding TokenInterceptor.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is still under development, and features are being added progressively.
+Feel free to experiment, explore different approaches, and learn from the process.
+Consider incorporating comments and documentation within your code for better clarity and maintainability.
